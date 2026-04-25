@@ -2,4 +2,4 @@
 GitHub Actions CICD Pipeline
 
 
-![alt text](https://github.com/NuwanKeshara/Ad-Campaign-Dataflow/blob/main/data/system.drawio.png?raw=true)
+![alt text](https://github.com/NuwanKeshara/GitHub-Actions/blob/main/CICD%20flow.png?raw=true)
